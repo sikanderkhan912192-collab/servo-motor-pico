@@ -25,3 +25,5 @@ The servo rotates between 0°, 90°, and 180° using PWM signal.
 ## 🚀 Future Improvements
 - Control via button
 - Control via mobile app
+project link below check out
+https://wokwi.com/projects/460662985301434369
